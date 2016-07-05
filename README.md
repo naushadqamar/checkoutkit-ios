@@ -33,7 +33,7 @@ Follow the below instructions to make your Objective-C project ready to use the 
 
 ![alt tag](Screenshots/screenshot2.png)
 
-5. Go to CheckoutKitObjcC.h and replace ```#import "checkoutObjC-swift.h"``` with ```#import "YOURPROJECTNAME-swift.h"```
+5. Go to CheckoutKitObjcC.h,CardProviderResponse and CardTokenResponse then replace ```#import "checkoutObjC-swift.h"``` with ```#import "YOURPROJECTNAME-swift.h"```
 
 6. Your project structure should now be similar to the below:
 
